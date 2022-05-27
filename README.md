@@ -1,5 +1,5 @@
 # ubuntu-installer-asgibert
-Instal·lador personal de paquets d'Ubuntu per a @asgibert.
+Instal·lador personal de paquets d'Ubuntu 22.04 LTS per a @asgibert.
 
 Per a fer córrer l'instal·lador:
 
