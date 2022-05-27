@@ -61,7 +61,7 @@ sudo apt-get install -y plexmediaserver
 sudo systemctl enable --now plexmediaserver
 echo "Plex Media Server instal·lat al sistema"
 
-echo "Instal·lant puddletg"
+echo "Instal·lant Puddletag"
 sudo apt-get install -y puddletag
 echo "Puddletag instal·lat al sistema"
 
