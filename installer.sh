@@ -77,7 +77,7 @@ echo "Instal·lant avidemux"
 sudo add-apt-repository ppa:xtradeb/apps -y
 sudo apt update
 sudo apt install -y avidemux*
-echo "Instal·lant avidemux
+echo "Instal·lant avidemux"
 
 echo "Instal·lant LibreOffice"
 sudo apt-get install y- libreoffice
