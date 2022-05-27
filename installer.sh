@@ -32,9 +32,9 @@ sudo apt-get update
 sudo apt-get install -y flacon
 echo "Flacon instal·lat al sistema"
 
- echo "Instal·lant HandBrake..."
- sudo apt-get install -y handbrake
- echo "HandBrake instal·lat al sistema"
+echo "Instal·lant HandBrake..."
+sudo apt-get install -y handbrake
+echo "HandBrake instal·lat al sistema"
 
 echo "Instal·lant Imagemagick"
 sudo apt-get install -y imagemagick
