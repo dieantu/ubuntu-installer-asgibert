@@ -18,4 +18,14 @@ Programes Instal·lats automàticament:
 - KDE Connect
 - Easytag
 - Flacon
-- 
+- HandBrake
+- Imagemagick
+- MKVToolNix
+- MediaInfo
+- Plex Media Server
+- PuddleTag
+- Telegram Desktop
+- VLC
+- LibreOffice
+- Avidemux
+- Transmission
