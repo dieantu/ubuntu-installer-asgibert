@@ -13,6 +13,7 @@ sudo chmod +w installer.sh
 ```
 Programes Instal·lats automàticament:
 
+- Firefox (Per Defecte)
 - Calibre
 - aMule
 - KDE Connect
