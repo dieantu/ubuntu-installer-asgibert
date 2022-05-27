@@ -83,3 +83,7 @@ echo "VLC instal·lat al sistema"
 # sudo apt update
 # sudo apt install -y avidemux2.7-qt5 avidemux2.7-qt5-data avidemux2.7-plugins-qt5. avidemux2.7-jobs-qt5
 # echo "Instal·lant avidemux"
+
+echo "Instal·lant LibreOffice"
+sudo apt-get install y- libreoffice
+echo "LibreOffice Instal·lat"
