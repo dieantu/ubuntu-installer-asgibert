@@ -49,7 +49,7 @@ sudo apt-get install -y mediainfo-gui
 echo "MediaInfo instal·lat al sistema"
 
 echo "Instal·lant GIMP"
-sudo apt-get install -y gimp
+sudo apt-get install -y gimp gimp-data-extras
 echo "GIMP instal·lat al sistema"
 
 echo "Instal·lant Plex Media Server"
