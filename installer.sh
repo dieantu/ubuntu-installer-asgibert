@@ -26,11 +26,11 @@ echo "Instal·lant EasyTag..."
 sudo apt-get install -y easytag
 echo "EasyTag instal·lat al sistema"
 
-# echo "Instal·lant Flacon..."
-# sudo add-apt-repository ppa:flacon/ppa
-# sudo apt-get update
-# sudo apt-get install -y flacon
-# echo "Flacon instal·lat al sistema"
+echo "Instal·lant Flacon..."
+sudo add-apt-repository ppa:flacon/ppa -y
+sudo apt-get update
+sudo apt-get install -y flacon
+echo "Flacon instal·lat al sistema"
 
  echo "Instal·lant HandBrake..."
  sudo apt-get install -y handbrake
