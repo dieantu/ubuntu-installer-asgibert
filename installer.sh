@@ -50,7 +50,7 @@ echo "Imagemagick instal·lat al sistema"
 # echo "MKVToolNix instal·lat"
 
 echo "Instal·lant MediaInfo"
-sudo apt-get install -y mediainfo
+sudo apt-get install -y mediainfo-gui
 echo "MediaInfo instal·lat al sistema"
 
 # echo "Instal·lant GIMP"
