@@ -32,39 +32,34 @@ echo "EasyTag instal·lat al sistema"
 # sudo apt-get install -y flacon
 # echo "Flacon instal·lat al sistema"
 
-# echo "Instal·lant HandBrake..."
-# sudo add-apt-repository ppa:stebbins/handbrake-releases
-# sudo apt-get update
-# sudo apt-get install -y handbrake
-# echo "HandBrake instal·lat al sistema"
+ echo "Instal·lant HandBrake..."
+ sudo apt-get install -y handbrake
+ echo "HandBrake instal·lat al sistema"
 
 echo "Instal·lant Imagemagick"
 sudo apt-get install -y imagemagick
 echo "Imagemagick instal·lat al sistema"
 
-# echo "Instal·lant MKVToolNix"
-# sudo sh -c 'echo "deb https://mkvtoolnix.download/ubuntu/ $(lsb_release -sc) main" >> /etc/apt/sources.list.d/bunkus.org.list'
-# wget -q -O - https://mkvtoolnix.download/gpg-pub-moritzbunkus.txt | sudo apt-key add -
-# sudo apt-get update
-# sudo apt-get install -y mkvtoolnix mkvtoolnix-gui
-# echo "MKVToolNix instal·lat"
+echo "Instal·lant MKVToolNix"
+sudo apt-get install -y mkvtoolnix mkvtoolnix-gui
+echo "MKVToolNix instal·lat"
 
 echo "Instal·lant MediaInfo"
 sudo apt-get install -y mediainfo-gui
 echo "MediaInfo instal·lat al sistema"
 
-# echo "Instal·lant GIMP"
-# sudo add-apt-repository ppa:otto-kesselgulasch/gimp
-# sudo apt update
-# sudo apt-get install -y gimp
-# echo "GIMP instal·lat al sistema"
+echo "Instal·lant GIMP"
+sudo apt-get install -y gimp
+echo "GIMP instal·lat al sistema"
 
-# echo "Instal·lant Plex Media Server"
-# echo deb https://downloads.plex.tv/repo/deb public main | sudo tee /etc/apt/sources.list.d/plexmediaserver.list
-# curl https://downloads.plex.tv/plex-keys/PlexSign.key | sudo apt-key add -
-# sudo apt update
-# sudo apt-get install -y plexmediaserver
-# echo "Plex Media Server instal·lat al sistema"
+echo "Instal·lant Plex Media Server"
+sudo apt install apt-transport-https curl
+curl https://downloads.plex.tv/plex-keys/PlexSign.key | sudo apt-key add -
+echo deb https://downloads.plex.tv/repo/deb public main | sudo tee /etc/apt/sources.list.d/plexmediaserver.list
+sudo apt update
+sudo apt-get install -y plexmediaserver
+sudo systemctl enable --now plexmediaserver
+echo "Plex Media Server instal·lat al sistema"
 
 echo "Instal·lant puddletg"
 sudo apt-get install -y puddletag
