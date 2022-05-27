@@ -24,8 +24,7 @@ sudo apt-get install -y calibre \
     puddletag \
     telegram-desktop \
     libreoffice \
-    vlc \
-    transgui-test
+    vlc
 echo "Instal·lat al sistema"
 
 echo "Instal·lant Flacon..."

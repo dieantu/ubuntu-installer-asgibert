@@ -29,4 +29,3 @@ Programes Instal·lats automàticament:
 - VLC
 - LibreOffice
 - Avidemux
-- Transmission
