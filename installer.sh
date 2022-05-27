@@ -81,4 +81,8 @@ echo "Instal·lant avidemux
 
 echo "Instal·lant LibreOffice"
 sudo apt-get install y- libreoffice
-echo "LibreOffice Instal·lat"
+echo "LibreOffice instal·lat"
+
+echo "Instal·lant Transmission"
+sudo snap install transgui-test
+echo "Transmission instal·lat"
