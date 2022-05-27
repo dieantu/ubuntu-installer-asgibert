@@ -73,11 +73,11 @@ echo "Instal·lant VLC"
 sudo apt-get install -y vlc
 echo "VLC instal·lat al sistema"
 
-# echo "Instal·lant avidemux"
-# sudo add-apt-repository ppa:ubuntuhandbook1/avidemux
-# sudo apt update
-# sudo apt install -y avidemux2.7-qt5 avidemux2.7-qt5-data avidemux2.7-plugins-qt5. avidemux2.7-jobs-qt5
-# echo "Instal·lant avidemux"
+echo "Instal·lant avidemux"
+sudo add-apt-repository ppa:xtradeb/apps -y
+sudo apt update
+sudo apt install -y avidemux*
+echo "Instal·lant avidemux
 
 echo "Instal·lant LibreOffice"
 sudo apt-get install y- libreoffice
