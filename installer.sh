@@ -24,7 +24,9 @@ sudo apt-get install -y calibre \
     puddletag \
     telegram-desktop \
     libreoffice \
-    vlc
+    vlc \
+    ubuntu-restricted-extras \
+    synaptic
 echo "Instal·lat al sistema"
 
 echo "Instal·lant Flacon..."
