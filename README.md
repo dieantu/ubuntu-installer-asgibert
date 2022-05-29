@@ -29,3 +29,6 @@ Programes Instal·lats automàticament:
 - VLC
 - LibreOffice
 - Avidemux
+- ttf-mscorefonts-installer
+- ubuntu-restricted-extras
+- synaptic
