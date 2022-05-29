@@ -50,3 +50,12 @@ sudo add-apt-repository ppa:xtradeb/apps -y
 sudo apt update
 sudo apt install -y avidemux*
 echo "Instal·lant avidemux"
+echo "====================================================================="
+echo ""
+echo "               @dieantu - Ubuntu Desktop per a asgibert              "
+echo ""
+echo " * L'instal·lador ha acabat tota la instal·lació de programari per   "
+echo " * a Ubuntu 22.04 LTS.                                               "
+echo ""
+echo "====================================================================="
+echo ""
