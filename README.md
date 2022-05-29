@@ -32,3 +32,4 @@ Programes Instal·lats automàticament:
 - ttf-mscorefonts-installer
 - ubuntu-restricted-extras
 - synaptic
+- ffmpeg
