@@ -27,7 +27,7 @@ sudo apt-get install -y calibre \
     vlc \
     ubuntu-restricted-extras \
     synaptic \
-    ttfs-mscorefonts-installer
+    ttf-mscorefonts-installer
 echo "Instal·lat al sistema"
 
 echo "Instal·lant Flacon..."
