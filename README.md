@@ -5,7 +5,7 @@ Per a fer córrer l'instal·lador:
 
 ```
 sudo apt-get update
-sudo apt-get install git
+sudo apt-get install git -y
 git clone https://github.com/dieantu/ubuntu-installer-asgibert.git
 cd ubuntu-installer-asgibert
 sudo chmod +x installer.sh
